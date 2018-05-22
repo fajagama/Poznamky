@@ -4,8 +4,9 @@ Jedná se o jednudochou webovou aplikaci pro poznámky. Naprogramováno v PHP fr
 
 ## Rozjetí projektu
 
-- Stažení repozitář
+- Stažení repozitáře
 - Spuštění composeru
 - Zprovoznění Laravelu 
+- Nastavení přístupu do databáze
 - Spuštění migrace
 - Hotovo :)
